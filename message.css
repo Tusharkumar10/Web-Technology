@@ -1,0 +1,21 @@
+p{
+    color: red;
+}
+h1{
+    text-align: center;
+}
+a{
+    color: rgb(0, 0, 0);
+    background-color: orange;
+    width: 100px;
+    height: 35px;
+    display: inline-block;
+    border-radius: 5px;
+    text-decoration: none;
+    text-align: center;
+    line-height: 35px;
+}
+a:hover{
+    color: white;
+    background-color: black;
+}
